@@ -1,0 +1,35 @@
+/* *{
+  border: 1px solid red
+} */
+body {
+  font-family: Arboria-Light;}
+  
+
+h1{
+  font-family: Arboria-Medium;}
+
+h3{
+  font-family: Arboria-Book;}
+
+@font-face {
+  font-family:'Arboria-Light';
+  src: url('../typography/Arboria-Light.ttf');}
+
+@font-face {
+  font-family:'Arboria-Medium';
+  src: url('../typography/Arboria-Medium.ttf');}
+
+@font-face {
+  font-family:'Arboria-Book';
+  src: url('../typography/Arboria-Book.ttf');}
+
+@font-face {
+  font-family:'Arboria-Black';
+  src: url('../typography/Arboria-Black.ttf');}
+
+@font-face {
+  font-family:'Insanibu';
+  src: url('../typography/Insanibu.ttf');}
+@font-face {
+  font-family:'Bold';
+  src: url('../typography/Arboria-Bold.ttf');}
